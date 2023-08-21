@@ -1,0 +1,470 @@
+*{
+    margin: 0;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
+}
+.header{
+    
+    background-color: white;
+    opacity: 0.1;
+}
+.nav1{ 
+    padding: 0% 250px;
+    
+}
+.nav-txt{
+    position: relative;
+    bottom: 17px;
+    color: #323132;
+    font-family:Arial, Helvetica, sans-serif ;
+
+}
+header li{
+    
+    display: inline;
+    margin: 0 14px;
+    font-size: 13px;
+}
+header li a{
+    text-decoration: none;
+
+}
+.section1{
+    /* background-color: grey; */
+    width: 100%;
+    height: 100%;
+    
+}
+.section1-txt{
+    position: relative;
+    z-index: 1;
+    top: 56px;
+    
+}
+.section1-btn a{
+    position: relative;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 0 694px;
+    color: #0066CC;
+    top: 10px;
+}
+.section1-btn a:hover{
+    text-decoration: underline;
+}
+.section1-txt h2{
+    font-size: 49px;
+    padding: 0px 530px;
+}
+.section1-txt h4{
+    font-size: 49px;
+    padding: 0px 630px;
+}
+.section1-txt h3{
+    font-size: 25px;
+    padding: 0 577px;
+}
+.section1-video {
+    position: relative;
+    right: 740px;
+    bottom: 180px;
+    z-index: 0;
+}
+
+.Macbook-txt{
+    position: relative;
+    z-index: 1;
+    bottom: 86px;
+}
+.Macbook-txt h2{
+    font-size: 49px;
+    padding: 0 574px;
+}
+.Macbook-txt h3{
+    font-size: 25px;
+    padding: 0 579px;
+}
+.Macbook-btn{
+    padding: 0 625px;
+}
+.Macbook-btn a{
+    position: relative;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 0 26px;
+    color: #0066CC;
+    top: 8px;
+    font-size: large;
+}
+.Macbook-btn a:hover{
+    text-decoration: underline;
+}
+.Macbook-back{
+    position: relative;
+    right: 730px;
+    z-index: -1;
+    bottom: 278px;
+}
+.iphone-14-txt{
+    position: relative;
+    z-index: 1;
+    bottom: 190px;
+}
+.iphone-14-txt h2{
+    font-size: 49px;
+    padding: 0 648px;
+}
+.iphone-14-txt h3{
+    font-size: 25px;
+    padding: 0 679px;
+}
+.iphone-14-btn{
+    padding: 0 625px;
+}
+.iphone-14-btn a{
+    position: relative;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 0 23px;
+    color: #0066CC;
+    top: 8px;
+    font-size: large;
+}
+.iphone-14-back{
+    position: relative;
+    right: 730px;
+    z-index: -1;
+    bottom: 376px;
+
+}
+.iphone-14-btn a:hover{
+    text-decoration: underline;
+}
+
+.section2{
+    position: relative;
+    bottom: 367px;
+}
+.row1{
+    display: flex;
+}
+.row2{
+    display: flex;
+}
+.row3{
+    display: flex;
+}
+.dash{
+    /* background-color: aliceblue; */
+    display: flex;
+}
+.iphone-14-pro{
+    overflow: hidden;
+    width: 730px;;
+    padding: 0 12px;
+    position: relative;
+    left: 10px;
+}
+.iphone-14-pro img{
+    position: relative;
+    right: 38%;
+}
+.ipad-pro{
+    overflow: hidden;
+    width: 730px;
+    padding: 0 12px;
+    position: relative;
+    /* left: -527px; */
+    left: -4px;
+}
+.ipad{
+    position: relative;
+    left: 6px;
+    margin-left: 10px;
+}
+.iphone-14-pro h2{
+    position: relative;
+    bottom: 527px;
+    right: -245px;
+    font-size: 35px;
+    color: white;
+}
+.iphone-14-pro h3{
+    position: relative;
+    font-size: 22px;
+    bottom: 520px;
+    right: -286px;
+    color: white;
+}
+.iphone-14-pro-btn a{
+    color: #0066CC;
+    text-decoration: none;
+    position: relative;
+    bottom: 506px;
+    right: -262px;
+    padding: 0 12px;
+    font-size: large;
+}
+.iphone-14-pro-btn a:hover{
+    text-decoration: underline;
+}
+.ipad-pro h2{
+    position: relative;
+    bottom: 527px;
+    right: -302px;
+    font-size: 35px;
+    color: white;
+}
+.ipad-pro h3{
+    position: relative;
+    font-size: 22px;
+    bottom: 520px;
+    right: -286px;
+    color: white;
+}
+.ipad-pro span{
+    position: relative;
+    font-size: 22px;
+    bottom: 551px;
+    right: -451px;
+
+}
+.ipad-pro-btn a{
+    color: #0066CC;
+    text-decoration: none;
+    position: relative;
+    bottom: 542px;
+    right: -285px;
+    font-size: large;
+    padding: 0 12px;
+}
+.ipad-pro-btn a:hover{
+    text-decoration: underline;
+}
+.watch{
+    overflow: hidden;
+    width: 730px;;
+    padding: 0 12px;
+    position: relative;
+    left: 10px;
+}
+.watch img{
+    position: relative;
+    right: 38%;
+}
+.vision-pro{
+    overflow: hidden;
+    width: 730px;
+    padding: 0 12px;
+    position: relative;
+    /* left: -527px; */
+    left: -4px;
+}
+.vision-pro img{
+    position: relative;
+    left: 6px;
+    margin-left: 10px;
+}
+.watch h2{
+    position: relative;
+    bottom: 527px;
+    right: -276px;
+    font-size: 30px;
+    color: white;
+}
+.watch h3{
+    position: relative;
+    font-size: 19px;
+    bottom: 520px;
+    right: -248px;
+    color: white;
+}
+.watch h4{
+    position: relative;
+    font-size: 17px;
+    bottom: 525px;
+    right: -302px;
+    color: #7b1418;
+}
+.watch-btn a{
+    color: #0066CC;
+    text-decoration: none;
+    position: relative;
+    bottom: 506px;
+    right: -247px;
+    padding: 0 12px;
+    font-size: large;
+}
+.watch-btn a:hover{
+    text-decoration: underline;
+}
+.vision-pro svg{
+    width: 90px;
+    height: 90px;
+    position: relative;
+    bottom: 210px;
+    right: -273px;
+}
+.vision-pro h3{
+    font-size: 35px;
+    position: relative;
+    bottom: 284px;
+    right: -342px;
+}
+.vision-pro h4{
+    font-size: 22px;
+    position: relative;
+    bottom: 274px;
+    right: -227px;
+}
+.vision-pro h5{
+    font-size: 20px;
+    position: relative;
+    color: #8F8F93;
+    bottom: 264px;
+    right: -257px;
+}
+.vision-pro-btn a{
+    color: #0066CC;
+    text-decoration: none;
+    position: relative;
+    bottom: 249px;
+    right: -369px;
+    font-size: large;
+}
+.vision-pro-btn a:hover{
+    text-decoration: underline;
+}
+.row2{
+    position: relative;
+    bottom: 120px;
+}
+.trade-in{
+    overflow: hidden;
+    width: 730px;;
+    padding: 0 12px;
+    position: relative;
+    left: 10px;
+}
+.trade-in img{
+    position: relative;
+    right: 38%;
+}
+.cards{
+    overflow: hidden;
+    width: 730px;
+    padding: 0 12px;
+    position: relative;
+    /* left: -527px; */
+    left: -4px;
+}
+.cards img{
+    position: relative;
+    left: 6px;
+    margin-left: 10px;
+}
+.trade-in svg{
+    width: 90px;
+    height: 90px;
+    position: relative;
+    bottom: 540px;
+    right: -251px;
+}
+.trade-in h4{
+    font-size: 35px;
+    position: relative;
+    bottom: 637px;
+    right: -312px;
+}
+.trade-in h3{
+    font-size: 22px;
+    position: relative;
+    bottom: 567px;
+    right: -227px;
+}
+.trade-in-btn a{
+    color: #0066CC;
+    text-decoration: none;
+    position: relative;
+    bottom: 585px;
+    right: -264px;
+    font-size: large;
+}
+.trade-in-btn a:hover{
+    text-decoration: underline;
+}
+.cards svg{
+    width: 90px;
+    height: 90px;
+    position: relative;
+    bottom: 540px;
+    right: -251px;
+}
+.cards h3{
+    font-size: 35px;
+    position: relative;
+    bottom: 611px;
+    right: -312px;
+}
+.cards h4{
+    font-size: 22px;
+    position: relative;
+    bottom: 601px;
+    right: -212px;
+}
+.cards h5{
+    font-size: 22px;
+    position: relative;
+    bottom: 595px;
+    right: -253px;
+}
+.cards-btn a{
+    color: #0066CC;
+    text-decoration: none;
+    position: relative;
+    bottom: 581px;
+    right: -247px;
+    padding: 0 12px;
+    font-size: large;
+}
+.cards-btn a:hover{
+    text-decoration: underline;
+}
+.row3{
+    position: relative;
+    bottom: 313px;
+}
+
+
+.slider-frame {
+    width: 80%; /* Adjust as needed */
+    max-width: 1000px;
+    overflow: hidden;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Style for individual slide images */
+.slide-images {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+}
+
+.img-container {
+    flex: 0 0 1250px; /* Adjust image width */
+    overflow: hidden;
+}
+
+.img-container img {
+    width: 100%;
+    height: auto;
+    vertical-align: middle;
+}
+
+
+
