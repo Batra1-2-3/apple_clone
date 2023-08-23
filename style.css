@@ -465,6 +465,186 @@ header li a{
     height: auto;
     vertical-align: middle;
 }
+footer{
+    font-size: 14px;
+    background-color: #F5F5F7;
+}
+.footerh{
+    font-size: 14px;
+    padding: 4px 245px;
+    text-decoration: none;
+    list-style: none;
+    color: #6E6E73;
+    
+}
+footer li{
+    padding: 4px 0px;
+}
+footer li a{
+    color: #6E6E73;
+}
+.apple-footer{
+    padding-top: 18px;
+}
+hr{
+    margin: 25px 0px;
+}
+.footer-down li{
+    list-style: none;
+}
+.footer-down{
+    display: flex;
+    padding: 0 216px;
+    position: relative;
+    right: -45px;
+}
+.footer-down a{
+    text-decoration: none;
+}
+.footer-down a:hover{
+    text-decoration: underline;
+}
+.footer-down span{
+    color: black;
+}
+.shop li{
+    padding: 4px 10px;
+    position: relative;
+    left: -50px;
+    
+}
+.acc{
+    padding: 0 39px;
+}
+.acc li{
+    padding: 4px 10px;
+    position: relative;
+    left: -50px;
+    
+}
+.fob li{
+    padding: 4px 10px;
+    position: relative;
+    left: -50px;
+    
+}
+.appleValues{
+    padding: 4px 10px;
+    position: relative;
+    left: -50px;
+    
+}
+.apple-store{
+    padding: 4px 10px;
+    position: relative;
+    left: -50px;
+    
+}
+.try1{
+    position: relative;
+    right: -39px;
+    bottom: 4px;
+}
+.try2{
+    position: relative;
+    right: -39px;
+}
+.try3{
+    position: relative;
+    margin: 10px 0;
+}
+.footer-down-1{
+    color:#6E6E73;
+    font-size: 14px;
+}
+.footer-down-1 h4{
+    padding: 0px 255px;
+}
+.hh{
+    padding: 1px 240px;
+    position: relative;
+    bottom: 16px;
+}
+.footer-down-1 a{
+    color: #0066CC;
+}
+.lastsection{
+    display: flex;
+    padding: 0 250px;
+    position: relative;
+    bottom: 35px;
+}
+.copyright{
+    font-size: 12px;
+    color: #6E6E73;
+}
+.copybtn{
+    font-size: 12px;
+    color: #6E6E73;
+    padding: 0 46px;
+}
+.copybtn a{
+    text-decoration: none;
+    font-size: 12px;
+    color: #6E6E73;
+}
+.copybtn a:hover{
+    text-decoration: underline;
+}
+.un a{
+    text-decoration: none;
+    font-size: 12px;
+    color: #6E6E73;
+    position: relative;
+    right: -184px;
+}
+.un a:hover{
+    text-decoration: underline;
+}   
+.slideshow-container img {
+  position: absolute;
+  bottom:-3747px;
+  right: 74px;
+  width: 90%;
+  height: 90%;
+  opacity: 0;
+  animation: fade 10s infinite;
+}
+.slideshow-container img:nth-child(1) {
+    animation-delay: 0s;
+  }
+  .slideshow-container img:nth-child(2) {
+    animation-delay: 15s;
+  }
+  .slideshow-container img:nth-child(3) {
+    animation-delay: 30s; 
+  }
+  .slideshow-container img:nth-child(4) {
+    animation-delay: 45s;
+  }
+  .slideshow-container img:nth-child(5) {
+    animation-delay: 60s
+  }
+  .slideshow-container img:nth-child(6) {
+    animation-delay: 75s;
+  }
+  .slideshow-container img:nth-child(7) {
+    animation-delay: 90s;
+  }
+  .slideshow-container img:nth-child(8) {
+    animation-delay: 105s;
+  }
+  
+
+@keyframes fade {
+  0% { opacity: 0; }
+  20% { opacity: 1; }
+  60% { opacity: 1; }
+  100% { opacity: 0; }
+}
+
+
+
 
 
 
