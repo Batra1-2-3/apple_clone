@@ -7,4 +7,4 @@ This project is a clone of the front end of the Apple website. The Apple website
 
 ## Demo
 
-You can view a live demo of the clone at [https://batra1-2-3.github.io/apple_clone/].
+You can view a live demo of the clone at [https://batra1-2-3.github.io/apple_clone/ ].
